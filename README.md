@@ -31,11 +31,11 @@ To run this project:
 ## Collaboration
 * No collaboration
 
-## Know Bugs
+## Know_Bugs
 * No know bugs
 
 ## License
 * No license
 
-## Contact Information
+## Contact_Information
 Domenico Pasquale domenicopasq@gmail.com
